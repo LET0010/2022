@@ -14,10 +14,10 @@ En la columna contenidos:
 
 -   
 
-    {{< fa house-laptop >}} indica que esa será una sesión remota
+    {{< fa house-laptop >}} indica que esa será una sesión remota.
 
 | semana | fecha | contenidos                                                                                                                                                                                                     | materiales                                  |
-|:--------:|:--------:|:------------------------------------------|----------|
+|:-----------:|:-----------:|:----------------------------------|-------------|
 |   1    | 09/08 | ¿Por qué existe un curso como este? Presentación del cronograma, del sistema de evaluación y de las herramientas que utilizaremos a lo largo del semestre.                                                     | [{{< fa desktop >}} presentación](probando) |
 |        | 11/08 | ¿Por qué es importante tener claros el propósito y la audiencia para comunicarnos de forma efectiva? Presentación de la lista de lecturas a elegir para la primera presentación y de la rúbrica de evaluación. |                                             |
 |   2    | 16/08 | ¿Cómo organizar el contenido de una presentación oral? Análisis de ejemplos.                                                                                                                                   |                                             |
