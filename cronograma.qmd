@@ -1,0 +1,52 @@
+---
+title: "Cronograma"
+editor: visual
+tbl-colwidths: [8,10,60,22]
+---
+
+El curso se organiza en dos partes. La primera se enfoca en cómo preparar presentaciones orales y culmina con la grabación de una presentación en formato "videoconferencia" acerca de un artículo o capítulo de libro sobre un tema relacionado con el uso de datos en el contexto actual. En la segunda parte desarrollarás un proyecto de análisis a partir de datos sobre un tema de tu interés. El proyecto implica la escritura de un reporte y la presentación al curso de los principales resultados obtenidos.
+
+En la columna contenidos:
+
+-   
+
+    {{< fa laptop >}} indica que esa sesión utilizaremos computador. Estas clases siempre quedarán grabadas.
+
+-   
+
+    {{< fa house-laptop >}} indica que esa será una sesión remota
+
+| semana | fecha | contenidos                                                                                                                                                                                                     | materiales                                  |
+|:--------:|:--------:|:------------------------------------------|----------|
+|   1    | 09/08 | ¿Por qué existe un curso como este? Presentación del cronograma, del sistema de evaluación y de las herramientas que utilizaremos a lo largo del semestre.                                                     | [{{< fa desktop >}} presentación](probando) |
+|        | 11/08 | ¿Por qué es importante tener claros el propósito y la audiencia para comunicarnos de forma efectiva? Presentación de la lista de lecturas a elegir para la primera presentación y de la rúbrica de evaluación. |                                             |
+|   2    | 16/08 | ¿Cómo organizar el contenido de una presentación oral? Análisis de ejemplos.                                                                                                                                   |                                             |
+|        | 18/08 | Taller de planificación de la estructura de una presentación.                                                                                                                                                  |                                             |
+|   3    | 23/08 | ¿Qué características tiene el material de apoyo efectivo? Análisis de ejemplos.                                                                                                                                |                                             |
+|        | 25/08 | Taller de diseño de material de apoyo.                                                                                                                                                                         |                                             |
+|   4    | 30/08 | ¿Qué aspectos relativos al manejo de la voz y los gestos hay tener en cuenta para una presentación oral en línea?                                                                                              |                                             |
+|        | 01/09 | Taller de revisión y retroalimentación.                                                                                                                                                                        |                                             |
+|   5    | 06/09 | Introducción al proceso de escritura de textos. Presentación de las rúbricas de evaluación del proyecto del curso.                                                                                             |                                             |
+|        | 08/09 | {{< fa laptop >}} La reproducibilidad computacional y el manejo de proyectos como habilidades comunicativas.                                                                                                   |                                             |
+|   6    | 13/09 | {{< fa laptop >}} Comunicar con datos: exploración de ejemplos.                                                                                                                                                |                                             |
+|        | 15/09 | {{< fa laptop >}} ¡Hola, Quarto! Taller práctico de introducción a este sistema de publicación.                                                                                                                |                                             |
+|   7    | 20/09 | {{< fa laptop >}} Elaboración de reportes con Quarto. Taller práctico.                                                                                                                                         |                                             |
+|        | 22/09 | *Periodicidad*: cómo organizar la información en un texto para que sea más fácil de comprender.                                                                                                                |                                             |
+|   8    | 27/09 | ¿Cómo estructurar de forma efectiva la introducción de un reporte?                                                                                                                                             |                                             |
+|        | 29/09 | Respaldar nuestras afirmaciones: el manejo ético de fuentes bibliográficas.                                                                                                                                    |                                             |
+|   9    | 04/10 | {{< fa laptop >}} Taller de visualización de datos (parte 1).                                                                                                                                                  |                                             |
+|        | 06/10 | {{< fa laptop >}} Taller de visualización de datos (parte 1).                                                                                                                                                  |                                             |
+|   10   | 11/10 | {{< fa laptop >}} Taller de visualización de datos (parte 1).                                                                                                                                                  |                                             |
+|        | 13/10 | {{< fa house-laptop >}} Sesión de trabajo individual y tutorías.                                                                                                                                               |                                             |
+|   11   | 18/10 | {{< fa laptop >}} ¿Cuándo comunicar datos en tablas y cuándo en gráficos? Taller de creación de tablas con {gt}.                                                                                               |                                             |
+|        | 20/10 | ¿Cómo crear una conclusión efectiva para un reporte?                                                                                                                                                           |                                             |
+|   12   | 25/10 | Estrategias de revisión de textos: cómo estructurar oraciones fáciles de comprender.                                                                                                                           |                                             |
+|        | 27/10 | Estrategias de revisión de textos: el desafío de utilizar palabras precisas y evitar la repetición.                                                                                                            |                                             |
+|   13   | 01/11 | (feriado)                                                                                                                                                                                                      |                                             |
+|        | 03/11 | Estrategias de revisión de textos: siempre dejar para el final la ortografía y los errores de tipeo.                                                                                                           |                                             |
+|   14   | 08/11 | {{< fa laptop >}} Comunicar quiénes somos y qué hacemos: creación de un sitio web personal con Quarto.                                                                                                         |                                             |
+|        | 10/11 | Taller para planificar la presentación de los resultados del reporte.                                                                                                                                          |                                             |
+|   15   | 15/11 | {{< fa laptop >}} Taller de creación de material de apoyo para presentaciones con Quarto (parte 1).                                                                                                            |                                             |
+|        | 17/11 | {{< fa laptop >}} Taller de creación de material de apoyo para presentaciones con Quarto (parte 2).                                                                                                            |                                             |
+|   16   | 22/11 | Manejo de la voz y gestos en presentaciones orales presenciales.                                                                                                                                               |                                             |
+|        | 24/11 | Recapitulación y cierre.                                                                                                                                                                                       |                                             |

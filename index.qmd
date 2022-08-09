@@ -1,0 +1,7 @@
+---
+title: "LET0010: Habilidades comunicativas para estudiantes de estadística"
+---
+
+Este es el sitio web complementario de la edición 2022 del curso LET0010. A lo largo del semestre aprenderemos estrategias para comunicar de forma efectiva ideas y resultados de análisis a través de presentaciones orales, reportes escritos, visualizaciones de datos y tablas. Nuestra principal herramienta de trabajo será [Quarto](https://quarto.org/), un sistema de publicación científica y técnica de código abierto que permite elaborar reportes, crear presentaciones y sitios web.
+
+<a href="https://cursos.canvas.uc.cl/courses/49556"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Acceso a Canvas</button></a>

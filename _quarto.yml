@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "let0010"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: inicio
+      - href: cronograma.qmd
+        text: cronograma
+      - href: materiales-complementarios.qmd
+        text: materiales complementarios
+  page-footer: "Hecho con {{< fa heart >}}, {{< fa coffee >}} y [Quarto](https://quarto.org/)"
+
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+    mainfont: "Catamaran"
+
+
+editor: visual
+
+
+
